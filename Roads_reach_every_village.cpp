@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-const int MAXN = 1000;//最大村庄数
-const int MAXM = 3000;//最多道路数
+const int MAXN = 1005;//最大村庄数
+const int MAXM = 3005;//最多道路数
 
 struct Edge{
     int u, v;
